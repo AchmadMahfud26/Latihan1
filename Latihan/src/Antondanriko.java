@@ -1,15 +1,3 @@
-# **Latihan 1**
-
-## Program :
-```sh
-public class Person {
-    String Nama;
-    String jenisKelamin;
-    int umur;
-}
-```
-
-```sh
 public class Antondanriko {
     public static void main(String[] args){
         Person orang = new Person();
@@ -29,6 +17,3 @@ public class Antondanriko {
         System.out.println("Umur          : "+ orang.umur);
     }
 }
-```
-## Output :   
-![.](SS/output.png)
